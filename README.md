@@ -26,6 +26,10 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 - [Map](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/)
 - [Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md),  [Phone Numbers](https://chromium.googlesource.com/external/libphonenumber/+/cpp-regex-fix/FALSEHOODS.md)
 
+## Internationalization
+
+- [Why flags do not represent languages](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/)
+- [Why you cannot list all countries](https://shkspr.mobi/blog/2017/11/input-type-country/)
 
 ## Falsehoods about Time and Time Zones
 
