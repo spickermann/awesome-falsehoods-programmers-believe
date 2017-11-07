@@ -29,7 +29,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 ## Internationalization
 
 - [Why flags do not represent languages](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/)
-- [Why you cannot list all countries](https://shkspr.mobi/blog/2017/11/input-type-country/)
+- [Why is there no standardised way to select a country from a list in HTML](https://shkspr.mobi/blog/2017/11/input-type-country/)
 
 ## Falsehoods about Time and Time Zones
 
