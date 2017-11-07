@@ -7,7 +7,7 @@ Things that look simple at a first glance might have a hidden complexity unter t
 * When you grew up in a western country you might expect that every person's name is made up of a first and a last name.
 * A programmers from the US might assume that each country is devided into states and therefore an address must contain a state name to be valid.
 * Developers from Central Europa might neglect time zones, because they never experienced time zone differences when traveling into a neighboring country.
-* Math teaches us that ``0.1 + 0.2 = 0.3`, but is that true in computer languages?
+* Math teaches us that `0.1 + 0.2 = 0.3`, but is that true in computer languages?
 
 This is a list about articles that are worth reading when you are a software engineer or you just wonder about the hidden complexity developers have to deal with.
 
