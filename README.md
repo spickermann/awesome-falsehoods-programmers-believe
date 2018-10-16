@@ -46,11 +46,13 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 - [Shutdown Hooks](http://grimoire.ca/dev/shutdown-hooks)
 - [Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 - [Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
+- [Hardware, Network, Programming](https://medium.com/@addvilz/more-falsehoods-programmers-believe-about-things-91b53359a6e8)
 
 ## Misc
 
 - [Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
 - [Job Applicants](https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616#.eaq5i1a1n)
+- [Various Topics](https://github.com/kdeldycke/awesome-falsehood)
 
 ---
 
