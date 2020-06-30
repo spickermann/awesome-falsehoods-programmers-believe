@@ -20,8 +20,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 
 ## Falsehoods about Addresses and Geography
 
-- [Addresses
-](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+- [Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
 - [Geography](http://wiesmann.codiferes.net/wordpress/?p=15187)
 - [Map](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/)
 - [Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md),  [Phone Numbers](https://chromium.googlesource.com/external/libphonenumber/+/cpp-regex-fix/FALSEHOODS.md)
@@ -30,7 +29,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 
 - [Why flags do not represent languages](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/)
 - [Why is there no standardised way to select a country from a list in HTML](https://shkspr.mobi/blog/2017/11/input-type-country/)
-– [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585) and currencies
+- [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585) and currencies
 
 ## Falsehoods about Time and Time Zones
 
