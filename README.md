@@ -30,6 +30,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 
 - [Why flags do not represent languages](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/)
 - [Why is there no standardised way to select a country from a list in HTML](https://shkspr.mobi/blog/2017/11/input-type-country/)
+– [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585) and currencies
 
 ## Falsehoods about Time and Time Zones
 
