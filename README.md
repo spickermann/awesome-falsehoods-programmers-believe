@@ -24,6 +24,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 - [Geography](http://wiesmann.codiferes.net/wordpress/?p=15187)
 - [Map](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/)
 - [Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md),  [Phone Numbers](https://chromium.googlesource.com/external/libphonenumber/+/cpp-regex-fix/FALSEHOODS.md)
+- [Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw)
 
 ## Internationalization
 
