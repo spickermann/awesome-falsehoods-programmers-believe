@@ -35,7 +35,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 ## Falsehoods about Time and Time Zones
 
 - [Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time), [Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
-- [Time Zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html)
+- [Time Zones](http://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html), [Time Zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 - [What year is it right now?](https://twitter.com/simongerman600/status/1649400094637056002)
 
 ## Falsehoods about Computers and Programming
