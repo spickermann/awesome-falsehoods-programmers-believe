@@ -2,14 +2,14 @@
 
 A collection of resources about falsehoods programmers believe to know.
 
-Things that look simple at a first glance might have a hidden complexity unter the hood:
+Things that look simple at a first glance might have a hidden complexity under the hood:
 
-* When you grew up in a western country you might expect that every person's name is made up of a first and a last name.
-* A programmers from the US might assume that each country is devided into states and therefore an address must contain a state name to be valid.
+* When you grew up in a western country, you might expect that every person's name is made up of a first and a last name.
+* A programmer from the US might assume that each country is divided into states, and therefore an address must contain a state name to be valid.
 * Developers from Central Europa might neglect time zones, because they never experienced time zone differences when traveling into a neighboring country.
 * Math teaches us that `0.1 + 0.2 = 0.3`, but is that true in computer languages?
 
-This is a list about articles that are worth reading when you are a software engineer or you just wonder about the hidden complexity developers have to deal with.
+This is a list about articles that are worth reading when you are a software engineer, or you just wonder about the hidden complexity developers have to deal with.
 
 You might want to start reading: [Doing Terrible Things To Your Code](https://blog.codinghorror.com/doing-terrible-things-to-your-code/)
 
@@ -64,7 +64,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 2. Create your feature branch (`git checkout -b my-new-list-item`)
 3. Commit your changes (`git commit -am 'Add a new list item'`)
 4. Push to the branch (`git push origin my-new-list-item`)
-5. Create new Pull Request
+5. Create new Pull Request.
 
 ## License
 
