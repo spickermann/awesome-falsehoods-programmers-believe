@@ -45,7 +45,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 - [Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Floating-Point Arithmetic](http://floating-point-gui.de/basic/)
 - [Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html)
-- [Shutdown Hooks](http://grimoire.ca/dev/shutdown-hooks)
+- [Shutdown Hooks](https://web.archive.org/web/20160426182058/http://grimoire.ca/dev/shutdown-hooks)
 - [Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 - [Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 - [Hardware, Network, Programming](https://medium.com/@addvilz/more-falsehoods-programmers-believe-about-things-91b53359a6e8)
