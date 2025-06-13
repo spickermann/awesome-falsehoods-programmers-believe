@@ -53,6 +53,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 
 ## Misc
 
+- [Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/)
 - [Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201)
 - [Job Applicants](https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616#.eaq5i1a1n)
 - [Various Topics](https://github.com/kdeldycke/awesome-falsehood)
