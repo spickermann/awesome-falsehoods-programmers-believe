@@ -50,6 +50,7 @@ You might want to start reading: [Doing Terrible Things To Your Code](https://bl
 - [Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 - [Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md)
 - [Hardware, Network, Programming](https://medium.com/@addvilz/more-falsehoods-programmers-believe-about-things-91b53359a6e8)
+- [C/C++ undefined behavior (UB)](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/)
 
 ## Misc
 
